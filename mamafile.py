@@ -3,7 +3,7 @@ import os
 from mama.utils.gnu_project import BuildProduct
 
 # Explore Mama docs at https://github.com/RedFox20/Mama
-class libssh2(mama.BuildTarget):
+class libssh(mama.BuildTarget):
 
     local_workspace = 'packages'
 
